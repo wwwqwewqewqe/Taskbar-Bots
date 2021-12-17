@@ -1,5 +1,5 @@
 wait(60)
-local paste = "https://raw.githubusercontent.com/CMD-X/CMD-X/master/projetcs/InGameFlingForTB"
+local paste = "https://raw.githubusercontent.com/p-on/Taskbar-Bots/main/example.lua"
 function newServer()
     syn.queue_on_teleport('loadstring(game:HttpGet("'..paste..'"))()')
     for i = 1,100 do
