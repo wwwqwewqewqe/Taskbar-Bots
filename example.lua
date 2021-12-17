@@ -1,4 +1,4 @@
-local paste = "https://raw.githubusercontent.com/CMD-X/CMD-X/master/projetcs/InGameFlingForTB"
+local paste = "https://raw.githubusercontent.com/p-on/Taskbar-Bots/main/example.lua"
 local message = "ur message"
 if not game:IsLoaded() then game.Loaded:wait() end
 
