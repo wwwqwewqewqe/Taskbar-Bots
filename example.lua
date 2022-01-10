@@ -1,5 +1,5 @@
-local paste = "https://raw.githubusercontent.com/p-on/Taskbar-Bots/main/example.lua"
-local message = "ur message"
+local paste = "https://raw.githubusercontent.com/wwwqwewqewqe/Taskbar-Bots/main/example.lua"
+local message = "gg/aux"
 if not game:IsLoaded() then game.Loaded:wait() end
 
 local rand = Random.new()
